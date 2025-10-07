@@ -6,7 +6,7 @@ A simple, clean, and stylish digital countdown timer built with HTML, CSS, and J
 
 This project is live and interactive on GitHub. Click the link below to see it in action! The cards expand on click, and the background particles react to your mouse movements.
 
-**[Click Here for the Live Demo](https://nitesh-shaw-098.github.io/Animated-Flex-Card/)**
+**[Click Here for the Live Demo](https://nitesh-shaw-098.github.io/Countdown-Timer/)**
 
 -----
 
